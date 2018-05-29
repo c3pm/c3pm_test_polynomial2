@@ -5,7 +5,18 @@
     "description": "Test repository for c3pm of type \"git-c3pm\"",
     "url": "https://github.com/c3pm/c3pm_test_polynomial2.git",
     "email": "oleh.kurachenko@gmail.com",
-    "dependencies": {},
+    "dependencies": {
+        "c3pm_test_libmath": {
+            "type": "git-c3pm",
+            "url": "https://github.com/c3pm/c3pm_test_libmath.git",
+            "version": "master"
+        },
+        "c3pm_test_polinomial": {
+            "type": "git-c3pm",
+            "url": "https://github.com/c3pm/c3pm_test_polinomial.git",
+            "version": "master"
+        }
+    },
     "c3pm_version": "v0.2",
     "whatIsC3pm": "https://github.com/c3pm/c3pm"
 }
