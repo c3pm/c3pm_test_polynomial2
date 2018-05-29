@@ -1,0 +1,11 @@
+{
+    "name": "c3pm_test_polynomial2",
+    "author": "Oleh Kurachenko",
+    "version": "0.0.1",
+    "description": "Test repository for c3pm of type \"git-c3pm\"",
+    "url": "https://github.com/c3pm/c3pm_test_polynomial2.git",
+    "email": "oleh.kurachenko@gmail.com",
+    "dependencies": {},
+    "c3pm_version": "v0.2",
+    "whatIsC3pm": "https://github.com/c3pm/c3pm"
+}
